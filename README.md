@@ -31,21 +31,20 @@ This project exposes REST endpoints to create, read, update, and delete employee
    cd MyFirstRestAPI
 
 API Endpoints
-Method	Endpoint	Description
-GET	/employees	Get all employees
-GET	/employees/id/{id}	Get employee by ID
-POST	/employees	Add a new employee
-PUT	/employees/id/{id}	Update employee by ID
-DELETE	/employees/id/{id}	Delete employee by ID
+- Method	Endpoint	Description
+- GET	/employees	Get all employees
+- GET	/employees/id/{id}	Get employee by ID
+- POST	/employees	Add a new employee
+- PUT	/employees/id/{id}	Update employee by ID
+- DELETE	/employees/id/{id}	Delete employee by ID
 
+```bash
 Sample JSON Payload
-json
-Copy
-Edit
 {
   "id": 755432,
   "name": "Swaraaj Naik",
   "company": "Tata Capital",
   "designation": "SDE1"
 }
+---
 
