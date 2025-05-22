@@ -13,7 +13,6 @@ This project exposes REST endpoints to create, read, update, and delete employee
 ![Screenshot 2025-05-22 232847](https://github.com/user-attachments/assets/a1a76746-a5c8-43b9-a56a-4f88d395a168)
 ![Screenshot (124)](https://github.com/user-attachments/assets/c91335de-1131-4b10-bd1e-05cd569cd02c)
 ![Screenshot 2025-05-22 220212](https://github.com/user-attachments/assets/d337f368-ef79-447f-9ce3-227738ac9be0)
----
 
 ## Tech Stack
 
